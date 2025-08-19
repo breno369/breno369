@@ -21,3 +21,8 @@ Here are some ideas to get you started:
 #### header test4
 
 <img src="https://github-readme-stats.vercel.app/api?username=breno369&show_icons=true&theme=city_lights">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=breno369&theme=city_lights">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=breno369&theme=city_lights">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=breno369&theme=city_lights">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=breno369&theme=city_lights">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=breno369&theme=city_lights&utcOffset=-3">
