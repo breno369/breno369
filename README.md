@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+link: 
+- https://github.com/anuraghazra/github-readme-stats
+- https://github.com/vn7n24fzkq/github-profile-summary-cards?tab=readme-ov-file
 -->
 
 # header test
