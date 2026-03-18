@@ -106,8 +106,8 @@ My name is Breno Possagnolo and i'm 19 years old. I'm an IT technician specializ
 />
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="C" 
+    title="C"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"
