@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Breno
+# 👩🏻‍💻 Breno Possagnolo
 
 **`Front-end and Wordpress Developer`**
 
-My name is Breno and i'm 19 years old. I'm an IT technician specializing in internet technology and I'm currently studying Information Systems.
+My name is Breno Possagnolo and i'm 19 years old. I'm an IT technician specializing in internet technology and I'm currently studying Information Systems.
 
 ---
 
