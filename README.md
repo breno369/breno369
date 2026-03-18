@@ -1,12 +1,12 @@
 # 👩🏻‍💻 Breno
 
-**`Desenvolvedor Front-end e Wordpress`**
+**`Front-end and Wordpress Developer`**
 
-Me chamo Breno, tenho 19 anos. Sou técnico em informatica para internet e atualmente estou cursando Sistemas da Informação.
+My name is Breno and i'm 19 years old. I'm an IT technician specializing in internet technology and I'm currently studying Information Systems.
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages e Technologies
 
 <img 
     align="left" 
@@ -116,7 +116,7 @@ Me chamo Breno, tenho 19 anos. Sou técnico em informatica para internet e atual
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <p>
   <img 
